@@ -9,16 +9,19 @@ https://github.com/AjayK47/Gemini-File/assets/88961945/33ac787d-ea55-4571-af70-f
 
 ## Table of Contents
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Uploading a PDF](#uploading-a-pdf)
-  - [Querying Documents](#querying-documents)
-- [Customisation](#Customisation)
-- [Contributing](#contributing)
-- [Future improvements](#Future-improvements)
+- [Gemini-File](#gemini-file)
+  - [Preview](#preview)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Google API Key Configuration](#google-api-key-configuration)
+    - [Installation](#installation)
+    - [Querying Documents](#querying-documents)
+  - [Customisation](#customisation)
+    - [Using Other Embedding Models](#using-other-embedding-models)
+  - [Contributing](#contributing)
+  - [Future improvements](#future-improvements)
 
 ## Features
 
@@ -99,9 +102,6 @@ Contributions are encouraged! Fork the repository, create a feature branch, make
 
 - **Dockerization:** Provide a Docker container for easy deployment.
 
-## Authors
-
-- [Ajay K](https://www.github.com/AjayK47)
 
 
 
